@@ -1,10 +1,10 @@
-**Recipe Blog Website – FORECIPE**
+**RECIPE BLOG WEBSITE – FORECIPE**
 
-**Project Overview**
+**PROJECT OVERVIEW**
 
 The Recipe Blog Website is a responsive front-end project that allows users to explore and access recipes from various cuisines including Indian, Italian, Mexican, and Chinese. It provides a clean, visually appealing, and user-friendly interface, making it easy for food enthusiasts to browse through different recipes and visit external sources for detailed instructions.
 
-**Features**
+**FEATURES**
 
 **Multi-cuisine Sections** – Categorized recipe listings for Indian, Italian, Mexican, and Chinese cuisines.
 
